@@ -1,0 +1,70 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "/Users/gilman/Desktop/StarterPlatformer/assets/platformer-level-1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "/Users/gilman/Desktop/CMPM 120/StarterPlatformer/assets/platformer-level-1.tmx": {
+            "scale": 0.3082,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 416.93705386112913,
+                "y": 444.51654769630113
+            }
+        },
+        "/Users/gilman/Desktop/CMPM 120/StarterPlatformer/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "/Users/gilman/Desktop/StarterPlatformer/assets/platformer-level-1.tmx": {
+            "scale": 0.14777777777777779,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2409.0225563909776,
+                "y": 182.70676691729295
+            }
+        },
+        "/Users/gilman/Desktop/StarterPlatformer/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmx": {
+            "scale": 0.5158,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 556.4172159751841,
+                "y": 238.46452113222176
+            }
+        },
+        "platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/gilman/Desktop/StarterPlatformer copy/assets",
+    "last.imagePath": "/Users/gilman/Desktop/StarterPlatformer copy/assets",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 120,
+    "openFiles": [
+        "platformer-level-1.tmx",
+        "/Users/gilman/Desktop/StarterPlatformer/assets/platformer-level-1.tmx"
+    ],
+    "project": "Starter Platformer.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "platformer-level-1.tmx",
+        "/Users/gilman/Desktop/StarterPlatformer/assets/platformer-level-1.tmx",
+        "/Users/gilman/Desktop/CMPM 120/StarterPlatformer/assets/platformer-level-1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
